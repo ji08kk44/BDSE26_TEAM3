@@ -55,13 +55,13 @@ sleep(2)
 start_page = 134
 end_page = 139
 
-    # 承儒:1-49
-    # 秉均:50-79
-    # 郁瓊:80-109
-    # 孟耘:110-139
-    # 亮志:140-169
-    # 宗蒝:170-199
-    # 蘊宸:200-229
+    # team member 1:1-49
+    # team member 2:50-79
+    # team member 3:80-109
+    # team member 4:110-139
+    # team member 5:140-169
+    # team member 6:170-199
+    # team member 7:200-229
 
 
 
