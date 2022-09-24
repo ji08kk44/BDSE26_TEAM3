@@ -35,8 +35,8 @@ driver.get(prefix)
 sleep(2)
 
 # 登入
-account = "請輸入個人帳號"
-password = "請輸入個人密碼"
+account = "#請輸入個人帳號"
+password = "#請輸入個人密碼"
 
 login = driver.find_element(By.CSS_SELECTOR, "div.l-header__main > div > div.l-header__tools > div > div.l-headerTools__login > a")
 login.click()
